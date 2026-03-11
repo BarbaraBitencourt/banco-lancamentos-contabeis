@@ -1,5 +1,8 @@
 # banco-lancamentos-contabeis
-Estrutura de banco de dados para armazenamento de lançamentos contábeis utilizada em projeto acadêmico de Banco de Dados e Machine Learning.
+Estrutura de banco de dados para armazenamento de lançamentos contábeis utilizada em projeto acadêmico da disciplina de Projeto Integrador 4.
+
+## Simulação de Sistema Inteligente de Reclassificação Contábil em Ambiente Corporativo
+
 ## Diagrama do Banco de Dados
 
 ![Diagrama do Banco](diagrama_banco.png)
