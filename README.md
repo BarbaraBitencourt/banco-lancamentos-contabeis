@@ -7,7 +7,7 @@ Estrutura de banco de dados para armazenamento de lançamentos contábeis utiliz
 
 ![Diagrama do Banco](diagrama_banco.png)
 
-## Scritp 
+## Script 
 
 ![Script](print_select.png)
 
